@@ -1,4 +1,4 @@
-public class practice2 {
+public class ST02 {
     public static void main(String[] args) {
         int javaHoursPerDay = 2;
         int aptitudeHoursPerDay = 1;
