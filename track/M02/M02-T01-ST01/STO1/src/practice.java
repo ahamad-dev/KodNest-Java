@@ -1,7 +1,6 @@
-package track.M02.TO1.STO1;
-
-public class Main {
+public class practice {
     public static void main(String[] args) {
         System.out.println("Hello Kodnest");
+
     }
 }
