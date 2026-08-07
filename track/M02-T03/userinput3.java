@@ -6,5 +6,6 @@ public class userinput3 {
         System.out.println("Enter the char: ");
         char ch = sc.next().charAt(2);
         System.out.println(ch);
+        sc.close();
     }
 }
