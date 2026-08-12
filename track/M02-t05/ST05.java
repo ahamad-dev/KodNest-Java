@@ -37,5 +37,6 @@ public class ST05 {
 
         System.out.println("Lucky Number: " + luckyNumber);
         System.out.println("Sum: " + demo.add(first, second));
+        scanner.close();
     }
 }
