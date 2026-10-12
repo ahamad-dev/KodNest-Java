@@ -23,5 +23,6 @@ public class threeDarr {
             System.out.println();
         }
 
+        sc.close();
     }
 }

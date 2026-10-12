@@ -18,5 +18,6 @@ public class twoDarr {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
